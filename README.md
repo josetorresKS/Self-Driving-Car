@@ -1,5 +1,5 @@
 # Self-Driving-Car
-* Watch the car learn to drive 
+* Using the model created the user will be able to train the car to self drive
 
 
 
